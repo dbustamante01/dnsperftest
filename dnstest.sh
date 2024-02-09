@@ -16,8 +16,12 @@ PROVIDERSV4="
 208.67.222.123#opendns 
 199.85.126.20#norton 
 185.228.168.168#cleanbrowsing 
-77.88.8.7#yandex 
-176.103.130.132#adguard 
+94.140.14.14#adguardblock1
+94.140.15.15#adguardblock2
+94.140.14.140#adguardfree1
+94.140.14.141#adguardfree2
+94.140.14.15#adguardfamily1
+94.140.15.16#adguardfamily2
 156.154.70.3#neustar 
 8.26.56.26#comodo
 45.90.28.202#nextdns
